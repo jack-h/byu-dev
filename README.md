@@ -1,4 +1,4 @@
-Template resources testing models.
+Template resource estimation models for an 8-input, 32k channel PFB design.
 
 To open/modify/compile:
 
